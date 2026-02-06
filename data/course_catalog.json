@@ -1,0 +1,27 @@
+[
+  {
+    "id": "CS-101",
+    "title": "Introduction to Programming",
+    "text": "CS 101 introduces variables, control flow, and functions in Python. No prerequisites. 4 credits."
+  },
+  {
+    "id": "CS-201",
+    "title": "Data Structures",
+    "text": "CS 201 covers arrays, linked lists, trees, and hash tables. Prerequisite: CS 101. 4 credits."
+  },
+  {
+    "id": "CS-301",
+    "title": "Algorithms",
+    "text": "CS 301 introduces asymptotic analysis, graph algorithms, and dynamic programming. Prerequisites: CS 201 and MATH 210. 4 credits."
+  },
+  {
+    "id": "MATH-210",
+    "title": "Discrete Mathematics",
+    "text": "MATH 210 covers logic, proofs, combinatorics, and graph theory. No prerequisites. 3 credits."
+  },
+  {
+    "id": "BUS-115",
+    "title": "Professional Communication",
+    "text": "BUS 115 focuses on professional writing, presentations, and teamwork communication. No prerequisites. 3 credits."
+  }
+]
